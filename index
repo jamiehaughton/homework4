@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,7 +9,7 @@
 <h1> popularity of names emma & emily over time </h1>
 
 <center>
-      <img width=xxxpx src="names.png">
+      <img width=1500px src="names.png">
 </center>
 
 <p>
@@ -27,15 +26,14 @@ By 2017, however, the two names almost switched places, with "Emma" at the #1 sp
 <h1> second graph </h1>
 
 <center>
-      <img width=xxx src="xxx.png">
+      <!--<img width=xxx src="xxx.png">-->
 </center>
 
 <p>
 insert description text here (2-5 sentences)
-<a href="link">data for this graph found here</a>
 </p>
 
-<a href="https://github.com/mikeizbicki/cmc-csci040/tree/master/hw_04">project webpage</a>
+<!--<a href="https://github.com/mikeizbicki/cmc-csci040/tree/master/hw_04">project webpage</a>-->
 
 </body>
 </html>
