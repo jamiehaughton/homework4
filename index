@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+      <title>jamie's homework four</title>
+</head>
+<body>
+
+
+<h1> popularity of names emma & emily over time </h1>
+
+<center>
+      <img width=xxxpx alt='xxx' src="xxx.png">
+</center>
+
+<p>
+insert description text here (2-5 sentences)
+<a href="link">data for this graph found here</a>
+
+</p>
+
+
+<h1> second graph </h1>
+
+<center>
+      <img width=xxx alt='xxx' src="xxx.png">
+</center>
+
+<p>
+insert description text here (2-5 sentences)
+<a href="link">data for this graph found here</a>
+</p>
+
+<a href="https://github.com/mikeizbicki/cmc-csci040/tree/master/hw_04">project webpage</a>
+
+</body>
+</html>
